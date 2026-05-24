@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourcalcsite.in/sitemap.xml
+Sitemap: https://nichecalc-india-syi5.vercel.app/sitemap.xml

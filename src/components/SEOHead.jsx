@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 
 export default function SEOHead({ title, description, keywords, slug }) {
-  const canonical = `https://nichegalcindia.com/${slug || ''}`;
+  const canonical = `https://nichecalc-india-syi5.vercel.app/${slug || ''}`;
   const fullTitle = slug ? `${title} | NicheCalc India` : title;
 
   const schema = JSON.stringify({
